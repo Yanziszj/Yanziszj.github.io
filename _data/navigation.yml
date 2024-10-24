@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: Yanziszj.github.io/_pages/cv.md
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
