@@ -4,6 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+# 2025
+
+## Maxima monotone operator and Splitting Methods
+**Minicouse** IMPA, 2025 Summer school
+Link to the videos [Classes on Youtube]([https://markdown.com.cn](https://www.youtube.com/watch?v=Rxo1PfmXUHI&list=PLo4jXE-LdDTSoHOK2vb8UMZ9Tk3MURHSe)
+
 ## Computational Methods in Optimization
 **Institution:** IMPA, Brazil  
 **Semester:** 2025  
