@@ -1,15 +1,16 @@
 ---
-layout: single
-title: "Welcome"
+layout: home
+title: "Di Liu"
 permalink: /
+sidebar:
+  nav: sidebar-nav
+  image: /assets/images/profile.jpg
+  image_alt: "我的照片"
+  image_style: "border-radius: 50%;"
+  sidebar_text: |
+    ### Di Liu  
+    Postdoctoral Researcher at IMPA, Brazil  
+    Research in Optimization, Monotone Operators  
 ---
 
-# Di Liu 
-
-I am a **Postdoctoral Researcher** at [IMPA](https://impa.br/) supervised by Prof. **Benar Fux Saviter** in Brazil since July 2024. 
-My research interests include:
-- Monotone Operators and Splitting Methods
-- Variational Inequality Problem
-- Circumcentered-Reflection Method (CRM) and its variants
-
-📫 Contact: di.liu@impa.br
+欢迎来到我的主页！这里是主页正文内容，你可以写介绍、新闻等。
