@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Di Liu"
+title: "Home Page"
 permalink: /
 ---
 
