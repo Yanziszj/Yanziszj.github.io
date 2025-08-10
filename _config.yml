@@ -2,7 +2,7 @@ title: "Di Liu"
 email: "youremail@example.com"
 description: "Postdoctoral Researcher at IMPA, Brazil"
 baseurl: ""
-url: "https://your-username.github.io"
+url: "https://Yanziszj.github.io"
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
@@ -19,6 +19,6 @@ author:
     - label: "Google Scholar"
       url: "https://scholar.google.com/"
     - label: "GitHub"
-      url: "https://github.com/your-username"
+      url: "https://github.com/Yanziszj"
     - label: "Email"
       url: "mailto:youremail@example.com"
