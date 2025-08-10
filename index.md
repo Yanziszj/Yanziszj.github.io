@@ -4,7 +4,7 @@ title: "Di Liu"
 permalink: /
 sidebar:
   nav: sidebar-nav
-  image: /assets/images/profile.jpg
+  image: /assets/images/Profile.jpg
   image_alt: "我的照片"
   image_style: "border-radius: 50%;"
   sidebar_text: |
