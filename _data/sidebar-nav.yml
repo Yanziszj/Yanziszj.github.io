@@ -1,8 +1,8 @@
-- title: "主页"
+- title: "Home"
   url: /
-- title: "研究"
+- title: "Research"
   url: /research/
-- title: "教学"
+- title: "Teaching"
   url: /teaching/
-- title: "简历"
+- title: "CV"
   url: /cv/
